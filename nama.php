@@ -10,8 +10,3 @@ if(isset($text_custom)) {
   echo "masukan nama jir";
 }
 ?>
-
-<form action="" method="post">
-  <input type="text" name="text" placeholder="ketik nama jir">
-  <input type="submit" value="Generate">
-</form> 
